@@ -7,7 +7,7 @@ This project is a responsive and user-friendly web application developed using m
 
 # 1. Overview
 
-Code Crew – Campus Placement Navigator is a web-based platform designed to streamline the placement preparation journey for students. It provides structured guidance, curated resources, and insights to help users make informed career decisions and improve placement readiness.
+Code Crew – Campus Navigator is a web-based platform designed to streamline the campus tour and  the  placement preparation journey for students. It provides structured guidance, curated resources, and insights to help users make informed career decisions and improve placement readiness.
 
 # 2. Problem Statement
 
