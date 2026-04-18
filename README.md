@@ -15,9 +15,9 @@ Code Crew – Campus Placement Navigator is a web-based platform designed to str
 Students preparing for campus placements often encounter:
 
 * Lack of clarity in choosing suitable career paths
-* Fragmented and unorganized preparation resources
+* Fragmented and unorganised preparation resources
 * Limited awareness of company expectations
-* Absence of a centralized platform for placement guidance
+* Absence of a centralised platform for placement guidance
 
 These challenges result in inefficient preparation and missed opportunities.
 
@@ -25,7 +25,7 @@ These challenges result in inefficient preparation and missed opportunities.
 
 This project addresses the above challenges by offering a unified platform that:
 
-* Organizes placement preparation resources in a structured manner
+* Organises placement preparation resources in a structured manner
 * Guides students in exploring relevant career paths
 * Provides insights into company requirements and hiring patterns
 * Simplifies the overall placement preparation process
@@ -44,7 +44,7 @@ This project addresses the above challenges by offering a unified platform that:
 * **User-Centric Design**
   Simple and intuitive interface for easy navigation
 
-* **Centralized Information Hub**
+* **Centralised Information Hub**
   Eliminates the need to switch between multiple platforms
 
 ---
