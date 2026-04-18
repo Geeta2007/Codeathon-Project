@@ -87,7 +87,7 @@ This platform enables students to:
 Planned improvements include:
 
 * AI-based career recommendation system
-* Personalized user dashboards
+* Personalised user dashboards
 * Mock interview and assessment modules
 * Integration with real-time placement data
 * Enhanced mobile responsiveness
@@ -98,6 +98,6 @@ Developed by **Team Code Crew** as part of a hackathon initiative.
 
 # 11. Conclusion
 
-Code Crew – Campus Placement Navigator aims to simplify and enhance the placement preparation process by providing structured guidance and centralized resources, enabling students to approach placements with confidence and clarity.
+Code Crew – Campus Placement Navigator aims to simplify and enhance the placement preparation process by providing structured guidance and centralised resources, enabling students to approach placements with confidence and clarity.
 
 This project is open-source and available for academic and learning purposes.
