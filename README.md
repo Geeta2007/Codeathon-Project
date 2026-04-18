@@ -98,6 +98,6 @@ Developed by **Team Code Crew** as part of a hackathon initiative.
 
 # 11. Conclusion
 
-Code Crew – Campus Placement Navigator aims to simplify and enhance the placement preparation process by providing structured guidance and centralised resources, enabling students to approach placements with confidence and clarity.
+Code Crew – Campus Placement Navigator makes prep easier with guidance and centralised resources, helping students approach placements with confidence and clarity.
 
 This project is open-source and available for academic and learning purposes.
