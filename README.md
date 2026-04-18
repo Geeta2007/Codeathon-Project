@@ -4,7 +4,7 @@ This project is a responsive and user-friendly web application developed using m
 
 **A structured platform to guide students through career planning and campus placements**
 
-**Live Demo:** @
+**Live Demo:** @  https://geeta2007.github.io/Codeathon-Project/
 
 # 1. Overview
 
